@@ -1,0 +1,35 @@
+{
+  "bookendVersion": "v1.0",
+  "shareProviders": [
+    "facebook",
+    "twitter",
+    "email"
+  ],
+  "components": [
+    {
+      "type": "heading",
+      "text": "More to read"
+    },
+    {
+      "type": "portrait",
+      "title": "Learn more about the paper here",
+      "url": "https://dokk.org/library/Creating_Crowdsourced_Research_Talks_at_Scale_(2018_IW3C2)",
+      "image": "assets/stanford-scholar.pdf"
+    },
+    {
+      "type": "landscape",
+      "title": "Read about crowdsourcing",
+      "url": "https://wikipedia.org/wiki/crowdsourcing",
+      "image": "assets/bookcase.jpg",
+    },
+    {
+      "type": "cta-link",
+      "links": [
+        {
+          "text": "Learn more",
+          "url": "https://www.ampproject.org/stories/"
+        }
+      ]
+    }
+  ]
+}
